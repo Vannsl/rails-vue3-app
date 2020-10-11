@@ -1,5 +1,7 @@
 <template>
-  <p>Hello World</p>
+  <p>
+    {{ message }}
+  </p>
 </template>
 
 <script>
